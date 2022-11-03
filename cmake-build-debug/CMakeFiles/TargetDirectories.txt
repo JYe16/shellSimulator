@@ -1,0 +1,3 @@
+/Users/jackieye/code/TCU-OS/shellSimulator/cmake-build-debug/CMakeFiles/shellSimulator.dir
+/Users/jackieye/code/TCU-OS/shellSimulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jackieye/code/TCU-OS/shellSimulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
